@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/*
+  em HTML id = em CSS é #
+*/
+
+body{
+    background-color: rgb(8, 144, 98);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{color: rgb(144, 76, 76);}
+
+h1#principal{text-align: center;color: brown;}
+
+.basico{color: rgb(255, 220, 172);}
+.intermediario{color: rgb(193, 165, 129);}
+.avancado{color: rgb(167, 203, 203);}
